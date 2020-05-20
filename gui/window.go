@@ -5,9 +5,9 @@
 package gui
 
 import (
-	"github.com/g3n/engine/gui/assets/icon"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/window"
+	"github.com/Glenn-Gray-Labs/g3n/gui/assets/icon"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
+	"github.com/Glenn-Gray-Labs/g3n/window"
 )
 
 /*********************************************

@@ -5,8 +5,8 @@
 package constraint
 
 import (
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/experimental/physics/equation"
+	"github.com/Glenn-Gray-Labs/g3n/experimental/physics/equation"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
 )
 
 // ConeTwist constraint.

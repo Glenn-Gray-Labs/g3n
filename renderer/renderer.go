@@ -6,15 +6,15 @@
 package renderer
 
 import (
-	"github.com/g3n/engine/camera"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/gui"
-	"github.com/g3n/engine/light"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/util/logger"
+	"github.com/Glenn-Gray-Labs/g3n/camera"
+	"github.com/Glenn-Gray-Labs/g3n/core"
+	"github.com/Glenn-Gray-Labs/g3n/gls"
+	"github.com/Glenn-Gray-Labs/g3n/graphic"
+	"github.com/Glenn-Gray-Labs/g3n/gui"
+	"github.com/Glenn-Gray-Labs/g3n/light"
+	"github.com/Glenn-Gray-Labs/g3n/material"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
+	"github.com/Glenn-Gray-Labs/g3n/util/logger"
 	"sort"
 )
 

@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/g3n/engine/texture"
-	"github.com/g3n/engine/window"
+	"github.com/Glenn-Gray-Labs/g3n/texture"
+	"github.com/Glenn-Gray-Labs/g3n/window"
 )
 
 // ImageButton represents an image button GUI element

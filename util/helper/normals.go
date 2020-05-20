@@ -5,12 +5,12 @@
 package helper
 
 import (
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
+	"github.com/Glenn-Gray-Labs/g3n/core"
+	"github.com/Glenn-Gray-Labs/g3n/geometry"
+	"github.com/Glenn-Gray-Labs/g3n/gls"
+	"github.com/Glenn-Gray-Labs/g3n/graphic"
+	"github.com/Glenn-Gray-Labs/g3n/material"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
 )
 
 // Normals is the visual representation of the normals of a target object.

@@ -8,8 +8,8 @@ package app
 
 import (
 	"fmt"
-	"github.com/g3n/engine/renderer"
-	"github.com/g3n/engine/window"
+	"github.com/Glenn-Gray-Labs/g3n/renderer"
+	"github.com/Glenn-Gray-Labs/g3n/window"
 	"syscall/js"
 	"time"
 )

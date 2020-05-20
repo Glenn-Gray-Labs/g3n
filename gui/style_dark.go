@@ -5,10 +5,10 @@
 package gui
 
 import (
-	"github.com/g3n/engine/gui/assets"
-	"github.com/g3n/engine/gui/assets/icon"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/text"
+	"github.com/Glenn-Gray-Labs/g3n/gui/assets"
+	"github.com/Glenn-Gray-Labs/g3n/gui/assets/icon"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
+	"github.com/Glenn-Gray-Labs/g3n/text"
 )
 
 // NewDarkStyle creates and returns a pointer to the a new "dark" style

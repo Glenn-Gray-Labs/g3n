@@ -5,7 +5,7 @@
 package gui
 
 import (
-	"github.com/g3n/engine/math32"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
 )
 
 /***************************************

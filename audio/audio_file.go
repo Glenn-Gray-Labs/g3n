@@ -8,8 +8,8 @@ package audio
 
 import (
 	"fmt"
-	"github.com/g3n/engine/audio/al"
-	"github.com/g3n/engine/audio/ov"
+	"github.com/Glenn-Gray-Labs/g3n/audio/al"
+	"github.com/Glenn-Gray-Labs/g3n/audio/ov"
 	"io"
 	"os"
 	"unsafe"

@@ -5,7 +5,7 @@
 package obj
 
 import (
-	"github.com/g3n/engine/util/logger"
+	"github.com/Glenn-Gray-Labs/g3n/util/logger"
 )
 
 // Package logger

@@ -1,4 +1,4 @@
-module github.com/g3n/engine
+module github.com/Glenn-Gray-Labs/g3n
 
 go 1.12
 

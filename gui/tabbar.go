@@ -7,7 +7,7 @@ package gui
 import (
 	"fmt"
 
-	"github.com/g3n/engine/window"
+	"github.com/Glenn-Gray-Labs/g3n/window"
 )
 
 // TabBar is a panel which can contain other panels arranged in horizontal Tabs.

@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/window"
+	"github.com/Glenn-Gray-Labs/g3n/core"
+	"github.com/Glenn-Gray-Labs/g3n/window"
 )
 
 // manager singleton

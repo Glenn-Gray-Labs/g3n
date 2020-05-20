@@ -5,8 +5,8 @@
 package constraint
 
 import (
-	"github.com/g3n/engine/experimental/physics/equation"
-	"github.com/g3n/engine/math32"
+	"github.com/Glenn-Gray-Labs/g3n/experimental/physics/equation"
+	"github.com/Glenn-Gray-Labs/g3n/math32"
 )
 
 // Hinge constraint.
@@ -14,8 +14,8 @@ import (
 // It tries to keep the door in the correct place and with the correct orientation.
 type Hinge struct {
 	PointToPoint
-	axisA   *math32.Vector3           // Rotation axis, defined locally in bodyA.
-	axisB   *math32.Vector3           // Rotation axis, defined locally in bodyB.
+	axisA   *math32.Vector3 // Rotation axis, defined locally in bodyA.
+	axisB   *math32.Vector3 // Rotation axis, defined locally in bodyB.
 	rotEq1  *equation.Rotational
 	rotEq2  *equation.Rotational
 	motorEq *equation.RotationalMotor

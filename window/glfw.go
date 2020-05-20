@@ -9,11 +9,11 @@ package window
 import (
 	"bytes"
 	"fmt"
-	"github.com/g3n/engine/gui/assets"
+	"github.com/Glenn-Gray-Labs/g3n/gui/assets"
 	"runtime"
 
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
+	"github.com/Glenn-Gray-Labs/g3n/core"
+	"github.com/Glenn-Gray-Labs/g3n/gls"
 	"github.com/go-gl/glfw/v3.3/glfw"
 	"image"
 	_ "image/png"
